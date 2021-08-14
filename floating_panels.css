@@ -23,9 +23,7 @@
 .scroller-2LSbBU{
      top:5px;
 }
- * {
-     background-color: red;
- }
+
 body{
      background-color:rgba(26, 21, 31, 0.0  )!important;
      filter :drop-shadow(0px 0px 5px rgba(22, 22, 22, 0.45)) ;
